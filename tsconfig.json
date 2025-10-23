@@ -21,8 +21,8 @@
         "name": "next"
       }
     ],
-    "moduleResolution": "node",
-    "resolveJsonModule": true
+    // "moduleResolution": "node",
+    // "resolveJsonModule": true
   },
   "include": [
     "next-env.d.ts",
